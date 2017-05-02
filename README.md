@@ -91,7 +91,7 @@
   </div>
 
 <hr>
-
+</div>
       <div class="w3-container w3-padding-32"></div>
       <div class="w3-container w3-padding-32"></div>
   <!-- Footer -->
@@ -104,3 +104,4 @@
 
 </body>
 </html>
+
