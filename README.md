@@ -91,7 +91,7 @@
   </div>
 
 <hr>
-</div>
+
       <div class="w3-container w3-padding-32"></div>
       <div class="w3-container w3-padding-32"></div>
   <!-- Footer -->
@@ -100,7 +100,7 @@
        title="W3.CSS" target="_blank" class="w3-hover-text-green">w3.css</a></p>
        <p>Review Hy Square Night Market By <br>Student Prince of Songkhla University <br>Information System</p>
   </footer>
-
+</div>
 
 </body>
 </html>
