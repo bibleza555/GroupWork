@@ -1,21 +1,3 @@
-Skip to content
-This repository
-Search
-Pull requests
-Issues
-Gist
- @bibleza555
- Sign out
- Watch 0
-  Star 0
-  Fork 0 bibleza555/GruopWork
- Code  Issues 0  Pull requests 0  Projects 0  Wiki  Pulse  Graphs  Settings
-Branch: master Find file Copy pathGruopWork/Main.html
-ff7c699  a minute ago
-@bibleza555 bibleza555 Add files via upload
-1 contributor
-RawBlameHistory     
-106 lines (95 sloc)  4.61 KB
 <!DOCTYPE html>
 <html>
 <title>W3.CSS Template</title>
